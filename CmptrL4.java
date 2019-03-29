@@ -1,7 +1,6 @@
-/*
- * Matt Packwood, Orchard Ridge, Monday Evening Class, Fall Semester 2003
- * PA04:
- * use scrollbars to relocate and resize computer on screen.
+/* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
+ * 
+ * PA04: Use scrollbars to relocate and resize computer on screen.
  *
  * ~288x288 applet screen; initial CPU height= 1/20 screen ht
  * Use scrollbar event handling to control the size and location
